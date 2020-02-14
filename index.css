@@ -99,7 +99,7 @@ footer ul li{
     display: inline;
     color: #666666;
     font-size: 14px;
-    padding;
+    padding: 13px;
 }
 
 footer ul{
@@ -154,7 +154,7 @@ footer ul a:hover{
 @media screen and (max-width: 565px){
 
     li.nav-links a{
-        padding: none;
+        display: none;
     }
 
     #google_logo{
